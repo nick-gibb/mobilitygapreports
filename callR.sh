@@ -1,0 +1,1 @@
+Rscript /home/main/main.R
